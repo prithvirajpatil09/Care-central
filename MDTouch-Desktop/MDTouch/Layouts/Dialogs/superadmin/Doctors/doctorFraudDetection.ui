@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>DoctorFraud</class>
+ <widget class="QWidget" name="DoctorFraud">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>648</width>
+    <height>512</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>bloodFraud</string>
+  </property>
+  <widget class="QFrame" name="frame">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>50</y>
+     <width>621</width>
+     <height>421</height>
+    </rect>
+   </property>
+   <property name="frameShape">
+    <enum>QFrame::StyledPanel</enum>
+   </property>
+   <property name="frameShadow">
+    <enum>QFrame::Raised</enum>
+   </property>
+   <widget class="QTableWidget" name="tableWidget">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>41</y>
+      <width>311</width>
+      <height>371</height>
+     </rect>
+    </property>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <column>
+     <property name="text">
+      <string>Doctor ID</string>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>Hospital ID</string>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>Fraud T/F</string>
+     </property>
+    </column>
+    <item row="0" column="0">
+     <property name="text">
+      <string>5</string>
+     </property>
+    </item>
+    <item row="0" column="1">
+     <property name="text">
+      <string>1</string>
+     </property>
+    </item>
+    <item row="0" column="2">
+     <property name="text">
+      <string>T</string>
+     </property>
+    </item>
+    <item row="1" column="0">
+     <property name="text">
+      <string>1</string>
+     </property>
+    </item>
+    <item row="1" column="1">
+     <property name="text">
+      <string>1</string>
+     </property>
+    </item>
+    <item row="1" column="2">
+     <property name="text">
+      <string>T</string>
+     </property>
+    </item>
+    <item row="2" column="0">
+     <property name="text">
+      <string>2</string>
+     </property>
+    </item>
+    <item row="2" column="1">
+     <property name="text">
+      <string>2</string>
+     </property>
+    </item>
+    <item row="2" column="2">
+     <property name="text">
+      <string>F</string>
+     </property>
+    </item>
+    <item row="3" column="0">
+     <property name="text">
+      <string>3</string>
+     </property>
+    </item>
+    <item row="3" column="1">
+     <property name="text">
+      <string>1</string>
+     </property>
+    </item>
+    <item row="3" column="2">
+     <property name="text">
+      <string>F</string>
+     </property>
+    </item>
+    <item row="4" column="0">
+     <property name="text">
+      <string>6</string>
+     </property>
+    </item>
+    <item row="4" column="1">
+     <property name="text">
+      <string>2</string>
+     </property>
+    </item>
+    <item row="4" column="2">
+     <property name="text">
+      <string>F</string>
+     </property>
+    </item>
+    <item row="5" column="0">
+     <property name="text">
+      <string>4</string>
+     </property>
+    </item>
+    <item row="5" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+    </item>
+    <item row="5" column="2">
+     <property name="text">
+      <string>F</string>
+     </property>
+    </item>
+    <item row="6" column="0">
+     <property name="text">
+      <string>7</string>
+     </property>
+    </item>
+    <item row="6" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+    </item>
+    <item row="6" column="2">
+     <property name="text">
+      <string>F</string>
+     </property>
+    </item>
+    <item row="7" column="0">
+     <property name="text">
+      <string>8</string>
+     </property>
+    </item>
+    <item row="7" column="1">
+     <property name="text">
+      <string>2</string>
+     </property>
+    </item>
+    <item row="7" column="2">
+     <property name="text">
+      <string>F</string>
+     </property>
+    </item>
+   </widget>
+   <widget class="QDateEdit" name="startingDate">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>10</y>
+      <width>111</width>
+      <height>26</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QLabel" name="titleLabel_2">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>10</y>
+      <width>131</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font-size:12pt;
+font-weight: bold;</string>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;Starting Date :&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="titleLabel_3">
+    <property name="geometry">
+     <rect>
+      <x>260</x>
+      <y>10</y>
+      <width>131</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font-size:12pt;
+font-weight: bold;</string>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;Ending Date :&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QDateEdit" name="EndingDate">
+    <property name="geometry">
+     <rect>
+      <x>390</x>
+      <y>10</y>
+      <width>111</width>
+      <height>26</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="findButton">
+    <property name="geometry">
+     <rect>
+      <x>520</x>
+      <y>10</y>
+      <width>89</width>
+      <height>25</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Find</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="lineEdit">
+    <property name="geometry">
+     <rect>
+      <x>360</x>
+      <y>170</y>
+      <width>241</width>
+      <height>25</height>
+     </rect>
+    </property>
+    <property name="placeholderText">
+     <string>Enter Doctor ID</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton">
+    <property name="geometry">
+     <rect>
+      <x>358</x>
+      <y>220</y>
+      <width>241</width>
+      <height>25</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>See Appointment Stats</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QPushButton" name="okbutton">
+   <property name="geometry">
+    <rect>
+     <x>260</x>
+     <y>480</y>
+     <width>89</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>close</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="titleLabel">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>0</y>
+     <width>561</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font-size:12pt;
+font-weight: bold;</string>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:18pt; text-decoration: underline;&quot;&gt;Doctor Fraud Detection&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

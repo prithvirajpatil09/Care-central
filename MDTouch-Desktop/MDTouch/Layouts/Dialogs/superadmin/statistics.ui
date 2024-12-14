@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>superadminstats</class>
+ <widget class="QWidget" name="superadminstats">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>753</width>
+    <height>480</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QLabel" name="titleLabel">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>10</y>
+     <width>361</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font-size:12pt;
+font-weight: bold;</string>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:18pt; text-decoration: underline;&quot;&gt;Stats View&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+  <widget class="QFrame" name="frame">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>70</y>
+     <width>711</width>
+     <height>361</height>
+    </rect>
+   </property>
+   <property name="frameShape">
+    <enum>QFrame::StyledPanel</enum>
+   </property>
+   <property name="frameShadow">
+    <enum>QFrame::Raised</enum>
+   </property>
+   <widget class="QPushButton" name="overall">
+    <property name="geometry">
+     <rect>
+      <x>530</x>
+      <y>60</y>
+      <width>141</width>
+      <height>111</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Overall</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="dispensary">
+    <property name="geometry">
+     <rect>
+      <x>370</x>
+      <y>60</y>
+      <width>141</width>
+      <height>111</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Dispensary</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="patient">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>60</y>
+      <width>141</width>
+      <height>111</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Patient</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="hospital">
+    <property name="geometry">
+     <rect>
+      <x>210</x>
+      <y>60</y>
+      <width>141</width>
+      <height>111</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Hospital</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_5">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>200</y>
+      <width>141</width>
+      <height>111</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Blood Bank Centers</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="testcenter">
+    <property name="geometry">
+     <rect>
+      <x>210</x>
+      <y>200</y>
+      <width>141</width>
+      <height>111</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Test Centers</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="events">
+    <property name="geometry">
+     <rect>
+      <x>370</x>
+      <y>200</y>
+      <width>141</width>
+      <height>111</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Events</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="doctor">
+    <property name="geometry">
+     <rect>
+      <x>530</x>
+      <y>200</y>
+      <width>141</width>
+      <height>111</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Events</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QPushButton" name="pushButton_9">
+   <property name="geometry">
+    <rect>
+     <x>330</x>
+     <y>440</y>
+     <width>89</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>close</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

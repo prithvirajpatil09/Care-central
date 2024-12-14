@@ -1,0 +1,96 @@
+# -*- coding: utf-8 -*-
+
+# Form implementation generated from reading ui file 'bedView.ui'
+#
+# Created by: PyQt5 UI code generator 5.11.2
+#
+# WARNING! All changes made in this file will be lost!
+
+from PyQt5 import QtCore, QtGui, QtWidgets
+
+class Ui_bedviewlialog(object):
+    def setupUi(self, bedviewlialog):
+        bedviewlialog.setObjectName("bedviewlialog")
+        bedviewlialog.resize(651, 428)
+        self.frame = QtWidgets.QFrame(bedviewlialog)
+        self.frame.setGeometry(QtCore.QRect(10, 60, 521, 321))
+        self.frame.setFrameShape(QtWidgets.QFrame.StyledPanel)
+        self.frame.setFrameShadow(QtWidgets.QFrame.Raised)
+        self.frame.setObjectName("frame")
+        self.tableWidget = QtWidgets.QTableWidget(self.frame)
+        self.tableWidget.setGeometry(QtCore.QRect(10, 10, 501, 301))
+        self.tableWidget.setObjectName("tableWidget")
+        self.tableWidget.setColumnCount(5)
+        self.tableWidget.setRowCount(1)
+        item = QtWidgets.QTableWidgetItem()
+        self.tableWidget.setVerticalHeaderItem(0, item)
+        item = QtWidgets.QTableWidgetItem()
+        self.tableWidget.setHorizontalHeaderItem(0, item)
+        item = QtWidgets.QTableWidgetItem()
+        self.tableWidget.setHorizontalHeaderItem(1, item)
+        item = QtWidgets.QTableWidgetItem()
+        self.tableWidget.setHorizontalHeaderItem(2, item)
+        item = QtWidgets.QTableWidgetItem()
+        self.tableWidget.setHorizontalHeaderItem(3, item)
+        item = QtWidgets.QTableWidgetItem()
+        self.tableWidget.setHorizontalHeaderItem(4, item)
+        self.titleLabel = QtWidgets.QLabel(bedviewlialog)
+        self.titleLabel.setGeometry(QtCore.QRect(90, 10, 361, 41))
+        self.titleLabel.setStyleSheet("font-size:12pt;\n"
+"font-weight: bold;")
+        self.titleLabel.setObjectName("titleLabel")
+        self.closeButton = QtWidgets.QPushButton(bedviewlialog)
+        self.closeButton.setGeometry(QtCore.QRect(540, 390, 101, 25))
+        self.closeButton.setObjectName("closeButton")
+        self.seeBilling = QtWidgets.QPushButton(bedviewlialog)
+        self.seeBilling.setGeometry(QtCore.QRect(540, 340, 101, 25))
+        self.seeBilling.setObjectName("seeBilling")
+        self.appointmentButton = QtWidgets.QPushButton(bedviewlialog)
+        self.appointmentButton.setGeometry(QtCore.QRect(10, 390, 171, 25))
+        self.appointmentButton.setObjectName("appointmentButton")
+        self.changeStatus = QtWidgets.QPushButton(bedviewlialog)
+        self.changeStatus.setGeometry(QtCore.QRect(190, 390, 161, 25))
+        self.changeStatus.setObjectName("changeStatus")
+        self.addBed = QtWidgets.QPushButton(bedviewlialog)
+        self.addBed.setGeometry(QtCore.QRect(540, 90, 101, 25))
+        self.addBed.setObjectName("addBed")
+        self.deleteBed = QtWidgets.QPushButton(bedviewlialog)
+        self.deleteBed.setGeometry(QtCore.QRect(540, 160, 101, 25))
+        self.deleteBed.setObjectName("deleteBed")
+        self.maintainanceRecord = QtWidgets.QPushButton(bedviewlialog)
+        self.maintainanceRecord.setGeometry(QtCore.QRect(360, 390, 161, 25))
+        self.maintainanceRecord.setObjectName("maintainanceRecord")
+        self.createBill = QtWidgets.QPushButton(bedviewlialog)
+        self.createBill.setGeometry(QtCore.QRect(540, 220, 101, 25))
+        self.createBill.setObjectName("createBill")
+        self.updateBill = QtWidgets.QPushButton(bedviewlialog)
+        self.updateBill.setGeometry(QtCore.QRect(540, 280, 101, 25))
+        self.updateBill.setObjectName("updateBill")
+
+        self.retranslateUi(bedviewlialog)
+        QtCore.QMetaObject.connectSlotsByName(bedviewlialog)
+
+    def retranslateUi(self, bedviewlialog):
+        _translate = QtCore.QCoreApplication.translate
+        bedviewlialog.setWindowTitle(_translate("bedviewlialog", "Beds"))
+        item = self.tableWidget.horizontalHeaderItem(0)
+        item.setText(_translate("bedviewlialog", "S.No"))
+        item = self.tableWidget.horizontalHeaderItem(1)
+        item.setText(_translate("bedviewlialog", "Bed ID"))
+        item = self.tableWidget.horizontalHeaderItem(2)
+        item.setText(_translate("bedviewlialog", "Type"))
+        item = self.tableWidget.horizontalHeaderItem(3)
+        item.setText(_translate("bedviewlialog", "Status"))
+        item = self.tableWidget.horizontalHeaderItem(4)
+        item.setText(_translate("bedviewlialog", "Patient ID"))
+        self.titleLabel.setText(_translate("bedviewlialog", "<html><head/><body><p><span style=\" font-size:18pt; text-decoration: underline;\">Bed Management System</span></p></body></html>"))
+        self.closeButton.setText(_translate("bedviewlialog", "Close"))
+        self.seeBilling.setText(_translate("bedviewlialog", "See Billings"))
+        self.appointmentButton.setText(_translate("bedviewlialog", "See Bed Appointments"))
+        self.changeStatus.setText(_translate("bedviewlialog", "Change Status"))
+        self.addBed.setText(_translate("bedviewlialog", "Add Bed"))
+        self.deleteBed.setText(_translate("bedviewlialog", "Delete Bed"))
+        self.maintainanceRecord.setText(_translate("bedviewlialog", "Maintainance Records"))
+        self.createBill.setText(_translate("bedviewlialog", "Create Bill"))
+        self.updateBill.setText(_translate("bedviewlialog", "Update Bill"))
+

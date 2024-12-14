@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25507724-9838-41de-a345-81452d7a9977" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="693">
+              <caret line="33" column="36" lean-forward="true" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Images/add_bloodBank.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Pages/bloodBankHome.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1470">
+              <caret line="70" column="13" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dialogs/superadmin/Doctors/addDoctor.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3486">
+              <caret line="172" column="18" selection-start-line="172" selection-start-column="12" selection-end-line="172" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dialogs/accountCreated.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="e#0#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pages/loginPage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3192">
+              <caret line="163" column="18" selection-start-line="163" selection-start-column="18" selection-end-line="163" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data/States.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Ana</find>
+      <find>analytics</find>
+      <find>Analytics</find>
+      <find>Statis</find>
+      <find>event_statis</find>
+      <find>event_st</find>
+      <find>TestCenters</find>
+      <find>inbox</find>
+      <find>27</find>
+      <find>removeEmergencyServicesLa</find>
+      <find>title</find>
+      <find>statisticsLa</find>
+      <find>viewTestC</find>
+      <find>removeTestCenters</find>
+      <find>addEmer</find>
+      <find>viewE</find>
+      <find>remove</find>
+      <find>viewEmer</find>
+      <find>removeEmergencyServicesLabel</find>
+      <find>View Eve</find>
+      <find>MdTouch</find>
+      <find>framem</find>
+      <find>Statistics</find>
+      <find>HEllo</find>
+      <find>print</find>
+      <find>self.table</find>
+      <find>Widget1</find>
+      <find>qualifica</find>
+      <find>city</find>
+      <find>&quot;city&quot;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>loginPage</replace>
+      <replace>home</replace>
+      <replace>hospital</replace>
+      <replace>events</replace>
+      <replace>bloodBank</replace>
+      <replace>superadminHome</replace>
+      <replace>doctor</replace>
+      <replace>Events</replace>
+      <replace>Home</replace>
+      <replace>title</replace>
+      <replace>80</replace>
+      <replace>statistics</replace>
+      <replace>MDTouch</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/loginPage.py" />
+        <option value="$PROJECT_DIR$/Pages/superadmin/hospitals.py" />
+        <option value="$PROJECT_DIR$/Pages/superadmin/events.py" />
+        <option value="$PROJECT_DIR$/Pages/superadmin/doctor.py" />
+        <option value="$PROJECT_DIR$/Pages/superadmin/bloodBank.py" />
+        <option value="$PROJECT_DIR$/DialogBoxes/messageBox.py" />
+        <option value="$PROJECT_DIR$/Pages/superadmin/home.py" />
+        <option value="$PROJECT_DIR$/Pages/superadminEvents.py" />
+        <option value="$PROJECT_DIR$/../layouts/superadminEvents.py" />
+        <option value="$PROJECT_DIR$/Pages/superadmin/hospital.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/../layouts/Dialogs/sample.py" />
+        <option value="$PROJECT_DIR$/../layouts/Dialogs/table.py" />
+        <option value="$PROJECT_DIR$/../layouts/Dialogs/scroll_widget.py" />
+        <option value="$PROJECT_DIR$/Pages/superadmin/Doctor.py" />
+        <option value="$PROJECT_DIR$/Pages/superadmin/Events.py" />
+        <option value="$PROJECT_DIR$/Pages/superadmin/BloodBank.py" />
+        <option value="$PROJECT_DIR$/Pages/superadmin/Emergency.py" />
+        <option value="$PROJECT_DIR$/Pages/superadmin/TestCenter.py" />
+        <option value="$PROJECT_DIR$/Pages/superadmin/Hospital.py" />
+        <option value="$PROJECT_DIR$/Pages/superadmin/Dispensary.py" />
+        <option value="$PROJECT_DIR$/Pages/superadminHome.py" />
+        <option value="$PROJECT_DIR$/Data/States.py" />
+        <option value="$PROJECT_DIR$/Dialogs/addDispensary.py" />
+        <option value="$PROJECT_DIR$/Dialogs/addHospital.py" />
+        <option value="$PROJECT_DIR$/Pages/loginPage.py" />
+        <option value="$PROJECT_DIR$/Dialogs/addTestCenter.py" />
+        <option value="$PROJECT_DIR$/Dialogs/accountCreated.py" />
+        <option value="$PROJECT_DIR$/Dialogs/superadmin/Doctors/addDoctor.py" />
+        <option value="$PROJECT_DIR$/Dialogs/superadmin/Doctors/viewDoctors.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1384" />
+    <option name="height" value="785" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>General</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MDTouch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MDTouch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MDTouch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MDTouch" type="462c0819:PsiDirectoryNode" />
+              <item name="Dialogs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MDTouch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MDTouch" type="462c0819:PsiDirectoryNode" />
+              <item name="Dialogs" type="462c0819:PsiDirectoryNode" />
+              <item name="superadmin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MDTouch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MDTouch" type="462c0819:PsiDirectoryNode" />
+              <item name="Dialogs" type="462c0819:PsiDirectoryNode" />
+              <item name="superadmin" type="462c0819:PsiDirectoryNode" />
+              <item name="Doctors" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../pycharm/Projecto Music Player" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="MDTouch" sdk-home="$USER_HOME$/anaconda3/bin/python">
+        <option name="mySdkHome" value="$USER_HOME$/anaconda3/bin/python" />
+        <option name="myModuleName" value="MDTouch" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MDTouch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sample" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MDTouch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../layouts/Dialogs" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../layouts/Dialogs/sample.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scroll_widget" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MDTouch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../layouts/Dialogs" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../layouts/Dialogs/scroll_widget.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="table" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MDTouch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../layouts/Dialogs" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../layouts/Dialogs/table.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.sample" />
+      <item itemvalue="Python.scroll_widget" />
+      <item itemvalue="Python.table" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.scroll_widget" />
+        <item itemvalue="Python.table" />
+        <item itemvalue="Python.sample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25507724-9838-41de-a345-81452d7a9977" name="Default Changelist" comment="" />
+      <created>1545538240990</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545538240990</updated>
+    </task>
+    <task id="LOCAL-00001" summary="&quot;Check Commit&quot;">
+      <created>1545660713812</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1545660713812</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added States and Cities">
+      <created>1545668637148</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1545668637148</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Link to database">
+      <created>1545686797866</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1545686797866</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Link to database">
+      <created>1545686829085</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1545686829085</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17382683" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24962178" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.23538461" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.3295082" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3276923" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32923076" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2527881" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24962178" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.23671497" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.3295082" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3295082" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.3295082" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;Check Commit&quot;" />
+    <MESSAGE value="Added States and Cities" />
+    <MESSAGE value="Link to database" />
+    <option name="LAST_COMMIT_MESSAGE" value="Link to database" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/loginPage.py" />
+    <entry file="file://$PROJECT_DIR$/Pages/superadmin/hospitals" />
+    <entry file="file://$PROJECT_DIR$/../layouts/superadminHospitals.py" />
+    <entry file="file://$PROJECT_DIR$/Pages/superadmin/hospitals.py" />
+    <entry file="file://$PROJECT_DIR$/Pages/superadmin/doctors.py" />
+    <entry file="file://$PROJECT_DIR$/../layouts/superadminBloodBanks.py" />
+    <entry file="file://$PROJECT_DIR$/../layouts/superadminDoctors.py" />
+    <entry file="file://$PROJECT_DIR$/DialogBoxes/messageBox.py" />
+    <entry file="file://$PROJECT_DIR$/Pages/superadmin/home.py" />
+    <entry file="file://$PROJECT_DIR$/Pages/superadminEvents.py" />
+    <entry file="file://$PROJECT_DIR$/../layouts/superadminHome.py" />
+    <entry file="file://$PROJECT_DIR$/../layouts/superadminEvents.py" />
+    <entry file="file://$PROJECT_DIR$/Pages/superadminmainPage.py" />
+    <entry file="file://$PROJECT_DIR$/../layouts/Dialogs/sample.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+    <entry file="file://$PROJECT_DIR$/../layouts/Dialogs/table.py" />
+    <entry file="file://$PROJECT_DIR$/../layouts/Dialogs/scroll_widget.py" />
+    <entry file="file://$PROJECT_DIR$/Pages/superadmin/Doctor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="257" column="50" selection-start-line="257" selection-start-column="50" selection-end-line="257" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/superadmin/Events.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3439">
+          <caret line="249" column="50" selection-start-line="249" selection-start-column="50" selection-end-line="249" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/superadmin/Emergency.py" />
+    <entry file="file://$PROJECT_DIR$/Pages/superadmin/BloodBank.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-633">
+          <caret line="261" column="50" selection-start-line="261" selection-start-column="50" selection-end-line="261" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/superadmin/Dispensary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="340" column="36" selection-start-line="340" selection-start-column="36" selection-end-line="340" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dialogs/addDispensary.py" />
+    <entry file="file://$PROJECT_DIR$/Pages/superadminHome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="304" column="183" selection-start-line="304" selection-start-column="173" selection-end-line="304" selection-end-column="183" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/superadmin/TestCenter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2018">
+          <caret line="338" lean-forward="true" selection-start-line="338" selection-end-line="338" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/superadmin/Hospital.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4890">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dialogs/addHospital.py" />
+    <entry file="file://$PROJECT_DIR$/Dialogs/addTestCenter.py" />
+    <entry file="file://$PROJECT_DIR$/Dialogs/superadmin/Doctors/viewDoctors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="269" column="47" selection-start-line="269" selection-start-column="47" selection-end-line="269" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="33" column="36" lean-forward="true" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dialogs/superadmin/Doctors/addDoctor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3486">
+          <caret line="172" column="18" selection-start-line="172" selection-start-column="12" selection-end-line="172" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dialogs/accountCreated.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/loginPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3192">
+          <caret line="163" column="18" selection-start-line="163" selection-start-column="18" selection-end-line="163" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/States.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Images/add_bloodBank.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/bloodBankHome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1470">
+          <caret line="70" column="13" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
