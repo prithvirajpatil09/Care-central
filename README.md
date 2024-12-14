@@ -1,2 +1,2 @@
 ﻿# MDTouch
- 
+ Developed a centralized healthcare management system to digitize patient records, streamline doctor-patient interactions, and enhance oversight of medical services. Key features include patient registration, appointment scheduling, blood bank fraud detection, real-time facility tracking, and preliminary symptom-based diagnosis. Built using Python, PyQt5, Django, and PostgreSQL, the project aims to modernize healthcare administration and prevent malpractice.
